@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://nwmhgrywdi7s"]
+
+[ext_resource type="PackedScene" uid="uid://bpckh3n2c6eyp" path="res://test_single_curve.godot_curve" id="1_ia1lp"]
+[ext_resource type="PackedScene" uid="uid://brnyobinwm8im" path="res://test_curves_imported.tscn" id="2_sasra"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="ClosedCurve" parent="." instance=ExtResource("1_ia1lp")]
+
+[node name="PathGroup" parent="." instance=ExtResource("2_sasra")]

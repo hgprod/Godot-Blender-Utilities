@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://brnyobinwm8im"]
+
+[ext_resource type="PackedScene" uid="uid://co8yeo60fwk4q" path="res://test_curves.godot_curve" id="1_orwxn"]
+
+[node name="PathGroup" instance=ExtResource("1_orwxn")]

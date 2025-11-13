@@ -1,0 +1,14 @@
+[remap]
+
+importer="hg_prod.curve_import"
+type="PackedScene"
+uid="uid://co8yeo60fwk4q"
+path="res://.godot/imported/test_curves.godot_curve-ddba465e70587b9a9c5593a5b8edc7ea.tscn"
+
+[deps]
+
+source_file="res://test_curves.godot_curve"
+dest_files=["res://.godot/imported/test_curves.godot_curve-ddba465e70587b9a9c5593a5b8edc7ea.tscn"]
+
+[params]
+
