@@ -2,7 +2,7 @@ This is the Happy Golem Godot/Blender Utility Archive.
 
 Everything here is open source (CC0), and released as is.
 
-If using the items in the ditribution, the .py needs to be installed as a Blender addon. The folder needs to go into the godot project addons folder.
+If using the items in the release zip, the .py needs to be installed as a Blender addon. The hg_blend_util folder needs to go into the godot project addons folder, and the addon needs to be turned on in the project settings.
 
 The only item currently in this package is a set of import/export plugins to convert a blender bezier curve to a godot path. Only Bezier curves will be exported with blender, all others will be ignored. Godot plugin will import the path as it was created. Tilts will be transferred with the path.
 
